@@ -1,0 +1,10 @@
+#data {
+    margin: 0 10%;
+}
+
+/* 画面幅が600px以下のときのスタイル (スマホ向け) */
+@media (max-width: 600px) {
+    #data {
+        margin: 0 2%;
+    }
+}
