@@ -1,3 +1,10 @@
 {
-    "site_name": "まとめさいと"
+    "site_name": "まとめさいと（仮）",
+    "header_bg_color": "black",
+    "header_font_color": "white",
+    "body_bg_color": "gray",
+    "body_font_color": "",
+    "footer_msg": "©まとめさいと All right reserved.(仮)",
+    "footer_bg_color": "black",
+    "footer_font_color": "white"
 }
